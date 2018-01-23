@@ -1,0 +1,23 @@
+
+
+.jumbotron {
+  background-image: url("elon_basketball.jpg");
+  background-size: cover;
+}
+
+.jumbotron img {
+    height: 250px;
+}
+
+.jumbotron h1 {
+  color: #a79220;
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  font-size: 100px;
+  font-feature-settings:
+}
+
+.container-fluid h3 {
+  text-align-last: center;
+  color:#A91710;
+}
